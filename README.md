@@ -1,4 +1,6 @@
 # Portfolio_KJ
+</br>
+Under Projects :
 
-npm install
-npm start
+ - npm install
+ - npm start
