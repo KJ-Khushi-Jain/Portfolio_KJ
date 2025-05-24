@@ -1,8 +1,6 @@
 # Portfolio_KJ
 
- ## Under Projects :
-
- </br>
+ Under Projects :
  
  - npm install
  - npm start
